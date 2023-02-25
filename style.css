@@ -1,0 +1,43 @@
+#home {
+    font-size: 100px;
+    text-align: center;
+}
+
+#paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+#photo {
+    width: 400px;
+}
+
+#container {
+    width: 200px;
+}
+
+#about {
+    text-align: center;
+    font-size: 100px;
+}
+
+#paragraph2 {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+button {
+    margin: 0 auto;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#name {
+    background-color: red;
+}
